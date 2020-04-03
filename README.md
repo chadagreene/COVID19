@@ -10,4 +10,4 @@ Go a little bit further and explore how the rates of doubling differ from place 
 ![](covid_case_doubling_rates.png) 
 
 ## Requirements 
-Requires the [Climate Data Toolbox for MATLAB](https://github.com/chadagreene/CDT) ([Greene et al., 2019](https://doi.org/10.1029/2019GC008392)
+Requires the [Climate Data Toolbox for MATLAB](https://github.com/chadagreene/CDT) ([Greene et al., 2019](https://doi.org/10.1029/2019GC008392)).
