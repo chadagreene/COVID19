@@ -303,3 +303,4 @@ cb.Color = 0.15*[1 1 1];
 set(cb,'xdir','reverse','xaxislocation','top') 
 xlabel(cb,['doubling rate (days) of known cases, ',datestr(t(indw(1)),'ddmmm'),'-',datestr(t(indw(end)),'ddmmm')])
 
+%export_fig covid_case_doubling_rates.png -r300 
